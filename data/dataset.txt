@@ -1,0 +1,2 @@
+The dataset used to  train the model can be found in 
+  https://www.kaggle.com/datasets/jessicali9530/lfw-dataset/data
