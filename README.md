@@ -23,7 +23,7 @@ Requests
 
 FaceNet Model: Pre-trained frozen graph file (.pb format)
 
-###### Facial Landmarks Predictor:
+#### Facial Landmarks Predictor:
 
 Download shape_predictor_68_face_landmarks.dat from dlib models  
 Place in the same directory as your scripts
@@ -55,7 +55,7 @@ Cropping: Outputs consistently sized face images
 
 ###  Configuration Options
 
-#####Face Alignment Parameters
+#### Face Alignment Parameters
 
 imgDim: Output image dimensions (square)  
 landmarkIndices: Which landmarks to use for alignment
@@ -66,7 +66,7 @@ OUTER_EYES_AND_NOSE: Alternative alignment strategy
 scale: Scale factor for aligned faces  
 skipMulti: Skip images with multiple faces
 
-##### Data Augmentation Options
+#### Data Augmentation Options
 
 random_flip: Random horizontal flipping  
 random_brightness: Brightness adjustment (±0.3)  
